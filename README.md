@@ -1,2 +1,1 @@
-# openshift-serverless-kustomization
-Kustomization for deploying OpenShift Serverless (Knative)
+Kustomization for Deploying OpenShift Serverless (Knative)
